@@ -1,3 +1,4 @@
 print("hello everyone")
-:wq
+print("sup how you doing ?")
+
 
